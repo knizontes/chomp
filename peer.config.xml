@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FingerTable>
+  <Keyspace dim="140" />
+  <Peers>
+    <peer id="0" ip="192.168.56.101" />
+    <peer id="20" ip="192.168.56.102" />
+    <peer id="40" ip="192.168.56.103" />
+    <peer id="60" ip="192.168.56.104" />
+    <peer id="80" ip="192.168.56.105" />
+    <peer id="100" ip="192.168.56.106" />
+    <peer id="120" ip="192.168.56.107" />
+  </Peers>
+</FingerTable>
+

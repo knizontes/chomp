@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Travelers>
+  <InfoTrav>
+    <traveler CF="MRTDNL85B19B254V" nome="Daniele" cognome="Morittu" info="info_1_dan" pwdHash="sdfsd" />
+    <itn giorno="2" tratta="1-2" ora="11:11" />
+    <itn giorno="3" tratta="1-3" ora="11:11" />
+    <itn giorno="4" tratta="1-4" ora="11:11" />
+    <itn giorno="5" tratta="1-5" ora="11:11" />
+    <itn giorno="6" tratta="1-6" ora="11:11" />
+    <itn giorno="7" tratta="1-7" ora="11:11" />
+  </InfoTrav>
+  <InfoTrav>
+    <traveler CF="MNLPCN48A01H501C" nome="Emanuele" cognome="Paracone" info="info_2_ema" pwdHash="mnbvcx" />
+    <itn giorno="2" tratta="1-2" ora="11:11" />
+    <itn giorno="3" tratta="1-3" ora="11:11" />
+    <itn giorno="4" tratta="1-4" ora="11:11" />
+    <itn giorno="5" tratta="1-5" ora="11:11" />
+    <itn giorno="6" tratta="1-6" ora="11:11" />
+    <itn giorno="7" tratta="1-7" ora="11:11" />
+  </InfoTrav>
+  <InfoTrav>
+    <traveler CF="STFLVR85S12H501O" nome="Stefano" cognome="Olivieri" info="info_3_ste" pwdHash="rtyugd" />
+    <itn giorno="2" tratta="1-2" ora="11:11" />
+    <itn giorno="3" tratta="1-3" ora="11:11" />
+    <itn giorno="4" tratta="1-4" ora="11:11" />
+    <itn giorno="5" tratta="1-5" ora="11:11" />
+    <itn giorno="6" tratta="1-6" ora="11:11" />
+    <itn giorno="7" tratta="1-7" ora="11:11" />
+  </InfoTrav>
+  <InfoTrav>
+    <traveler CF="RSSMRA76A01A794N" nome="Mario" cognome="Rossi" info="info_4_null" pwdHash="sdffgg" />
+    <itn giorno="1" tratta="1-2" ora="8:11" />
+    <itn giorno="4" tratta="8-7" ora="19:30" />
+    <itn giorno="6" tratta="71-7" ora="5:10" />
+  </InfoTrav>
+  <InfoTrav>
+    <traveler CF="BNCSRG73L01G482Y" nome="Sergio" cognome="Bianchi" info="info_5_null" pwdHash="fhfrtue" />
+    <itn giorno="1" tratta="1-2" ora="8:11" />
+    <itn giorno="4" tratta="8-7" ora="19:30" />
+    <itn giorno="6" tratta="71-7" ora="5:10" />
+  </InfoTrav>
+  <InfoTrav>
+    <traveler CF="RNLTLL40L01H501O" nome="Otello" cognome="Rinaldi" info="info_6_null" pwdHash="xdpomj" />
+    <itn giorno="1" tratta="1-2" ora="8:11" />
+    <itn giorno="4" tratta="8-7" ora="19:30" />
+    <itn giorno="6" tratta="71-7" ora="5:10" />
+  </InfoTrav>
+</Travelers>
+
